@@ -1,4 +1,4 @@
-<h1>Bem-vindo ao meu perfil de desenvolvedor front-end: onde a paixão pela tecnologia encontra a criatividade!</h1>
+<h1>Bem-vindo ao meu perfil de desenvolvedor: onde a paixão pela tecnologia encontra a criatividade!</h1>
 
 <p>Olá, eu sou Willy Gabriel, um estudante de programação front-end que está focado em desenvolver habilidades em linguagens front-end. Atualmente, estou aprendendo HTML, CSS e JS, com o objetivo de me tornar um programador profissional nesta área. Eu sou apaixonado por tecnologia e estou sempre em busca de novos desafios para aprimorar minhas habilidades.</p>
 
