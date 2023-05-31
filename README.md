@@ -1,6 +1,6 @@
 <h1>Bem-vindo ao meu perfil de desenvolvedor: onde a paixão pela tecnologia encontra a criatividade!</h1>
 
-<p>Olá, eu sou Willy Gabriel, um estudante de programação front-end que está focado em desenvolver habilidades em linguagens front-end. Atualmente, estou aprendendo HTML, CSS e JS, com o objetivo de me tornar um programador profissional nesta área, apaixonado por tecnologia e sempre em busca de novos desafios para aprimorar minhas habilidades.</p>
+<p>Olá, sou Willy, um estudante de programação front-end buscando me tornar um programador profissional. Estou focado em aprender HTML, CSS e JS e estou matriculado no curso do DevQuest - Dev em Dobro para aprimorar minhas habilidades. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios para crescer. Estou comprometido em investir tempo e esforço para me tornar um programador front-end qualificado.</p>
 
 <div>
   <a href="https://github.com/willy-braga">
